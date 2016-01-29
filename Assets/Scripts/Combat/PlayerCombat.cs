@@ -2,14 +2,13 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public enum TargetPerson { Bartender, CockBlocker, Portsari, Babe };
+
 
 public class PlayerCombat : MonoBehaviour {
 
     public static PlayerCombat Instance = null;
 
-    public List<string> _Playermsgs;
-    TargetPerson _targetPersons;
+
 
     // Use this for initialization
     void Start () {
@@ -55,8 +54,5 @@ public class PlayerCombat : MonoBehaviour {
         }
     }
 
-    public void Attack()
-    {
-        //Implement PlayerAttack();
-    }
+
 }
