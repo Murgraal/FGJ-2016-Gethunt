@@ -1,0 +1,10 @@
+*.prefs
+Library/metadata/00/00000000000000001000000000000000
+Library/metadata
+Library/ScriptAssemblies
+Library/ShaderCache
+Temp
+ProjectSettings
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/EditorSettings.asset
