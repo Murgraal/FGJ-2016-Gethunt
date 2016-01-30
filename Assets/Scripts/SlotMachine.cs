@@ -71,7 +71,7 @@ public class SlotMachine : MonoBehaviour
             slots[1].transform.Rotate(0, 0, 1000 * Time.deltaTime);
             slots[2].transform.Rotate(0, 0, 1000 * Time.deltaTime);
         }
-        if(Input.GetKeyDown(KeyCode.A))
+        if(Input.GetKeyDown(KeyCode.A) && !rotate)
         {
 
             StartCoroutine(something());
