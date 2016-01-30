@@ -7,6 +7,7 @@ public class SlotMachine : MonoBehaviour
     private float winningProbability = 0.3f;
     public SpriteRenderer[] sr;
     public Sprite[] sprites;
+    private bool rotate = false;
 
     public void use(/*PlayerData player*/)
     {
@@ -58,6 +59,16 @@ public class SlotMachine : MonoBehaviour
 
             this.use();
         }
+
+    }
+
+
+    public void setSpinningGraphics()
+    {
+
+        sr[0].sprite = sprites[0];
+        sr[1].sprite = sprites[0];
+        sr[2].sprite = sprites[0];
 
     }
 
