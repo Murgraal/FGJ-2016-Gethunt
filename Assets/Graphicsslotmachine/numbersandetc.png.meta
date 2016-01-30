@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: cec882ac276e11e4bbc143a7764dfc83
+timeCreated: 1454171919
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbersandetc_0
+    21300002: numbersandetc_1
+    21300004: numbersandetc_2
+    21300006: numbersandetc_3
+    21300008: numbersandetc_4
+    21300010: numbersandetc_5
+    21300012: numbersandetc_6
+    21300014: numbersandetc_7
+    21300016: numbersandetc_8
+    21300018: numbersandetc_9
+    21300020: numbersandetc_10
+    21300022: numbersandetc_11
+    21300024: numbersandetc_12
+    21300026: numbersandetc_13
+    21300028: numbersandetc_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: numbersandetc_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 256
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: numbersandetc_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 256
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 29.5}
+        - {x: -21.5, y: 16.5}
+        - {x: -21.5, y: 14.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -10.5, y: 13.5}
+        - {x: -21.5, y: -22.5}
+        - {x: -21.5, y: -29.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 21.5, y: -27.5}
+        - {x: 21.5, y: 26.5}
+        - {x: 12.5, y: 29.5}
+    - name: numbersandetc_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 255
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 30}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: -30}
+        - {x: 19.5, y: -30}
+        - {x: 19.5, y: 29}
+        - {x: 16.5, y: 30}
+    - name: numbersandetc_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 29}
+        - {x: -10.5, y: 14}
+        - {x: -21.5, y: -5}
+        - {x: -21.5, y: -26}
+        - {x: -7.5, y: -29}
+        - {x: 21.5, y: -29}
+        - {x: 21.5, y: 10}
+        - {x: 17.5, y: 29}
+    - name: numbersandetc_4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 29.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -18.5, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 18.5, y: 29.5}
+    - name: numbersandetc_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -29.5}
+        - {x: 17.5, y: -29.5}
+        - {x: 21.5, y: -28.5}
+        - {x: 21.5, y: 18.5}
+        - {x: 19.5, y: 29.5}
+        - {x: -12.5, y: 29.5}
+        - {x: -21.5, y: 13.5}
+    - name: numbersandetc_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 29}
+        - {x: -20, y: 28}
+        - {x: -20, y: -29}
+        - {x: 0, y: -29}
+        - {x: 20, y: 20}
+        - {x: 20, y: 29}
+    - name: numbersandetc_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -21, y: 29.5}
+        - {x: -21, y: -27.5}
+        - {x: -18, y: -30.5}
+        - {x: 21, y: -30.5}
+        - {x: 21, y: 28.5}
+        - {x: 19, y: 30.5}
+    - name: numbersandetc_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 99
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 29.5}
+        - {x: -21.5, y: -29.5}
+        - {x: 13.5, y: -29.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 29.5}
+    - name: numbersandetc_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 100
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: numbersandetc_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 30.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -21.5, y: -26.5}
+        - {x: -20.5, y: -30.5}
+        - {x: 19.5, y: -30.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 21.5, y: 29.5}
+        - {x: 19.5, y: 30.5}
+    - name: numbersandetc_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 21}
+        - {x: -20, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 21}
+    - name: numbersandetc_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 21}
+        - {x: -8, y: 21}
+        - {x: -9, y: 20}
+        - {x: -16, y: 2}
+        - {x: -22, y: -14}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 22, y: -12}
+        - {x: 17, y: 2}
+    - name: numbersandetc_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 97
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23}
+        - {x: -24.5, y: 17}
+        - {x: -24.5, y: -19}
+        - {x: -17.5, y: -23}
+        - {x: 24.5, y: -23}
+        - {x: 24.5, y: 14}
+        - {x: 15.5, y: 23}
+    - name: numbersandetc_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
