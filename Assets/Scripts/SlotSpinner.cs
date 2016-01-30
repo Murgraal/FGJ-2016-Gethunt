@@ -7,7 +7,7 @@ public class SlotSpinner : MonoBehaviour {
 
     public void setRotate(bool rotate)
     {
-        this.setRotate = rotate;
+       // this.setRotate = rotate;
     }
 	
 	void Update () {

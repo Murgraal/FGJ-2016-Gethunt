@@ -6,8 +6,9 @@ public class SlotMachine : MonoBehaviour
 
     private float winningProbability = 0.3f;
     public SpriteRenderer[] sr;
+    public GameObject[] slots;
     public Sprite[] sprites;
-    private bool rotate = false;
+    private bool rotate;
 
     public void use(/*PlayerData player*/)
     {
@@ -52,12 +53,28 @@ public class SlotMachine : MonoBehaviour
 
     }
 
+    public IEnumerator something()
+    {
+        setSpinningGraphics();
+        rotate = true;
+        yield return new WaitForSeconds(1f);
+        rotate = false;
+        this.use();
+    }
+
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.A))
+
+        if (rotate)
+        {
+            slots[0].transform.Rotate(0, 0, 1000 * Time.deltaTime);
+            slots[1].transform.Rotate(0, 0, 1000 * Time.deltaTime);
+            slots[2].transform.Rotate(0, 0, 1000 * Time.deltaTime);
+        }
+        if(Input.GetKeyDown(KeyCode.A) && !rotate)
         {
 
-            this.use();
+            StartCoroutine(something());
         }
 
     }
