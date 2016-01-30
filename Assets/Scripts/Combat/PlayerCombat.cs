@@ -28,31 +28,13 @@ public class PlayerCombat : MonoBehaviour {
 
         DontDestroyOnLoad(gameObject);
     }
-	
-	// Update is called once per frame
-	void Update ()
+
+    // Update is called once per frame
+    void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Keypad1))
-        {
-
-        }
-        else if (Input.GetKeyDown(KeyCode.Keypad2))
-        {
-
-        }
-        else if (Input.GetKeyDown(KeyCode.Keypad3))
-        {
-
-        }
-        else if (Input.GetKeyDown(KeyCode.Keypad4))
-        {
-
-        }
-        else if (Input.GetKeyDown(KeyCode.Keypad5))
-        {
-
-        }
     }
 
+
+    
 
 }
