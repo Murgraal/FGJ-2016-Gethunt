@@ -23,6 +23,7 @@ public class PlayerData : MonoBehaviour {
     public float fuckwithResist;
     public float aggressiveResist;
     public float idiotResist;
+    public int money;
 
 	// Use this for initialization
 	void Start () {
@@ -30,7 +31,7 @@ public class PlayerData : MonoBehaviour {
         hp = 100;
         dmg = 10;
         drunkLvl = 1;
-
+        money = 10;
 	
 	}
 	
